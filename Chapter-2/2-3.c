@@ -1,3 +1,10 @@
+/*Write a program to output the following multiplication table:
+    5 x 1 = 5
+    5 x 2 = 10
+    5 x 3 = 15
+    .
+    .
+    5 x 10 = 50*/
 #include<stdio.h>
 
 int main(){

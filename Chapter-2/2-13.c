@@ -1,3 +1,6 @@
+/*Distance between two points (x1,y1) and (x2,y2) is governed by the formula
+    D=sqrt(pow(x2-x1,2) + pow(y2-y1,2))
+Write a program to compute D given the coordinates fo the points.*/
 #include<stdio.h>
 #include<math.h>
 

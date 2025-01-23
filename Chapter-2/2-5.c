@@ -1,3 +1,4 @@
+/*Write a C program that reads the value of distance travelled by a car and the time taken for the same. Next, compute the speed at which the car travelled.*/
 #include<stdio.h>
 
 int main(){

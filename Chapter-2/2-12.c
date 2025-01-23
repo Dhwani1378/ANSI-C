@@ -1,3 +1,11 @@
+/*Write a program to display the following simple arithmetic calculator
+    x=
+    y=
+    Sum:
+    Difference:
+    Product:
+    Division:
+*/
 #include<stdio.h>
 
 int main(){

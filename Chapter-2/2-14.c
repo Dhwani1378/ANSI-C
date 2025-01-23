@@ -1,3 +1,4 @@
+/*A point on the circumference of a circle whose center is (0,0) is (4,5). Write a program to compute perimeter and area of the circle.(Hint: use the formula given in the Ex 2.11)*/
 #include<stdio.h>
 #include<math.h>
 
